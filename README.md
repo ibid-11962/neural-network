@@ -1,4 +1,4 @@
-# neural-network-
+# neural-network
 
 These two Python programs to train and test a neural network with one hidden layer, and using a sigmoid activation function and back propagation.
 
